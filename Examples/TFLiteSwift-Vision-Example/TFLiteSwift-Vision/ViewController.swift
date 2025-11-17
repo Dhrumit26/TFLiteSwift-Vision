@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  TFLiteSwift-Vision
 //
-//  Created by tucan9389 on 04/10/2021.
-//  Copyright (c) 2021 tucan9389. All rights reserved.
+//  Created by Dhrumit26 on 2024/01/01.
+//  Copyright (c) 2024 Dhrumit26. All rights reserved.
 //
 
 import UIKit
@@ -58,7 +58,7 @@ extension ViewController: UIImagePickerControllerDelegate {
         
         if let uiImage = info[UIImagePickerControllerOriginalImage] as? UIImage {
             
-            DispatchQueue(label: "com.tucan9389.inference", qos: .userInteractive).async { [weak self] in
+            DispatchQueue(label: "com.dhrumit26.inference", qos: .userInteractive).async { [weak self] in
                 guard let self = self else { return }
                 
                 // inference

@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   This framework is a layer for vision's preprocessing and postprocessing when you are using TensorFlowLiteSwift. You can use TFLiteSwift-Vision, if you want to implemented preprocessing and postprocessing functions in the repository.
                        DESC
 
-  s.homepage         = 'https://github.com/tucan9389/TFLiteSwift-Vision'
+  s.homepage         = 'https://github.com/Dhrumit26/TFLiteSwift-Vision'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'Apache 2.0', :file => 'LICENSE' }
-  s.author           = { 'tucan9389' => 'tucan.dev@gmail.com', 'Seonghun23' => 'kimsh777kr@gmail.com' }
-  s.source           = { :git => 'https://github.com/tucan9389/TFLiteSwift-Vision.git', :tag => s.version.to_s }
+  s.author           = { 'Dhrumit26' => '' }
+  s.source           = { :git => 'https://github.com/Dhrumit26/TFLiteSwift-Vision.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'

@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  TFLiteSwift-Vision
 //
-//  Created by tucan9389 on 04/10/2021.
-//  Copyright (c) 2021 tucan9389. All rights reserved.
+//  Created by Dhrumit26 on 2024/01/01.
+//  Copyright (c) 2024 Dhrumit26. All rights reserved.
 //
 
 import UIKit

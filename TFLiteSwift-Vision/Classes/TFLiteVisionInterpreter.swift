@@ -1,6 +1,6 @@
 
 /*
-* Copyright Doyoung Gwak 2020
+* Copyright Dhrumit26 2024
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -17,10 +17,10 @@
 
 //
 //  TFLiteVisionInterpreter.swift
-//  PoseEstimation-TFLiteSwift
+//  TFLiteSwift-Vision
 //
-//  Created by Doyoung Gwak on 2020/03/14.
-//  Copyright © 2020 Doyoung Gwak. All rights reserved.
+//  Created by Dhrumit26 on 2024/01/01.
+//  Copyright © 2024 Dhrumit26. All rights reserved.
 //
 
 import TensorFlowLite

@@ -1,10 +1,10 @@
 # TFLiteSwift-Vision
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/tucan9389/TFLiteSwift-Vision/compare)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Dhrumit26/TFLiteSwift-Vision/compare)
 [![Version](https://img.shields.io/cocoapods/v/TFLiteSwift-Vision.svg?style=flat)](https://cocoapods.org/pods/TFLiteSwift-Vision)
 [![License](https://img.shields.io/cocoapods/l/TFLiteSwift-Vision.svg?style=flat)](https://cocoapods.org/pods/TFLiteSwift-Vision)
 [![Platform](https://img.shields.io/cocoapods/p/TFLiteSwift-Vision.svg?style=flat)](https://cocoapods.org/pods/TFLiteSwift-Vision)
-<!-- [![CI Status](https://img.shields.io/travis/tucan9389/TFLiteSwift-Vision.svg?style=flat)](https://travis-ci.org/tucan9389/TFLiteSwift-Vision) -->
+<!-- [![CI Status](https://img.shields.io/travis/Dhrumit26/TFLiteSwift-Vision.svg?style=flat)](https://travis-ci.org/Dhrumit26/TFLiteSwift-Vision) -->
 
 
 
@@ -24,7 +24,7 @@ This library is a [TensorFlowLiteSwift](https://cocoapods.org/pods/TensorFlowLit
 
 ![image](https://user-images.githubusercontent.com/37643248/130391342-6b83f6a7-9748-401c-89d5-33148f3ec2cc.png)
 
-[Here](https://github.com/tucan9389/TFLiteSwift-Vision/issues/3) is more detail of this repo's background and goal, and what is diff.
+[Here](https://github.com/Dhrumit26/TFLiteSwift-Vision/issues/3) is more detail of this repo's background and goal, and what is diff.
 
 ## Requirements
 
@@ -105,7 +105,7 @@ print(output.dimensions)
 ### Clone and open the Example project
 
 ```shell
-git clone https://github.com/tucan9389/TFLiteSwift-Vision
+git clone https://github.com/Dhrumit26/TFLiteSwift-Vision
 cd TFLiteSwift-Vision/Example
 pod install
 open TFLiteSwift-Vision.xcworkspace
@@ -116,8 +116,8 @@ open TFLiteSwift-Vision.xcworkspace
 Download tflite model and label txt, and then import the files into Xcode project.
 
 > You can also download the following files on [here](https://www.tensorflow.org/lite/guide/hosted_models)
-- [mobilenet_v2_1.0_224.tflite](https://github.com/tucan9389/TFLiteSwift-Vision/releases/download/tflite-upload/mobilenet_v2_1.0_224.tflite)
-- [labels_mobilenet_quant_v1_224.txt](https://github.com/tucan9389/TFLiteSwift-Vision/releases/download/tflite-upload/labels_mobilenet_quant_v1_224.txt)
+- [mobilenet_v2_1.0_224.tflite](https://github.com/Dhrumit26/TFLiteSwift-Vision/releases/download/tflite-upload/mobilenet_v2_1.0_224.tflite)
+- [labels_mobilenet_quant_v1_224.txt](https://github.com/Dhrumit26/TFLiteSwift-Vision/releases/download/tflite-upload/labels_mobilenet_quant_v1_224.txt)
 
 ### Build and Run
 
@@ -188,10 +188,8 @@ TFLiteSwift-Vision is supporting (or wants to support) follow functions:
 
 ## Author
 
-- [@tucan9389](https://github.com/tucan9389), tucan.dev@gmail.com
-- [@Seonghun23](https://github.com/Seonghun23), kimsh777kr@gmail.com
+- [@Dhrumit26](https://github.com/Dhrumit26)
 
 ## License
 
 TFLiteSwift-Vision is available under the Apache license. See the [LICENSE](LICENSE) file for more info.
-# TFLiteSwift-Vision
